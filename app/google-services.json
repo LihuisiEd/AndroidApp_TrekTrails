@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "536169866236",
+    "project_id": "trektrails-55b93",
+    "storage_bucket": "trektrails-55b93.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536169866236:android:6389e6105cd6e4c7b6c879",
+        "android_client_info": {
+          "package_name": "com.lihuisied.trektrails"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgshpQujRXr3wQC5Le_7jydecir5WcWpg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
